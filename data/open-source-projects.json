@@ -1,0 +1,217 @@
+{
+  "title": "Open Source Projects",
+  "list": [
+    {
+      "category": "API",
+      "repositories": [
+        "ExpDev07/coronavirus-tracker",
+        "ExpDev07/coronavirus-tracker-api",
+        "nat236919/Covid2019API",
+        "bizz84/coronavirus_rest_api_flutter_course",
+        "sorxrob/2019-ncov-api",
+        "BlankerL/DXY-COVID-19-Crawler",
+        "isjeffcom/coronvirusFigureUK",
+        "andreagrandi/covid-api",
+        "rlindskog/covid19-graphql",
+        "COVID19Tracking/covid-tracking-api",
+        "amodm/api-covid19-in",
+        "mathdroid/covid-19-api",
+        "NovelCOVID/API",
+        "episphere/corona",
+        "marlon360/rki-covid-api",
+        "lkd70/coronapi",
+        "ChrisMichaelPerezSantiago/covid19",
+        "AlaeddineMessadi/COVID-19-REPORT-API",
+        "cinemast/covid19-at",
+        "elias-garcia/covid-19-spain",
+        "PotentialWeb/CoronaTab",
+        "ryo-ma/covid19-japan-web-api",
+        "AtilioA/COVID19-ES-Py",
+        "pastelsky/covid-19-mobility-tracker",
+        "Laeyoung/COVID-19-API",
+        "alegoritma/covid-19-lite",
+        "covid19india/api",
+        "yedhink/covid19-kerala-api",
+        "slotix/COVID-19",
+        "cityxdev/covid19GoogleMobilityJSON"
+      ]
+    },
+    {
+      "category": "Statistics and Datasets",
+      "repositories": [
+        "CSSEGISandData/COVID-19",
+        "globalcitizen/2019-wuhan-coronavirus-dat",
+        "nextstrain/ncov",
+        "GuangchuangYu/nCov2019",
+        "RamiKrispin/coronavirus",
+        "jianxu305/nCov2019_analysis",
+        "jihoo-kim/Coronavirus-Dataset",
+        "docligot/coronatracker-analytics",
+        "artic-network/artic-ncov2019",
+        "RamiKrispin/coronavirus-csv",
+        "alext234/coronavirus-stats",
+        "lazargugleta/coronavirusStats",
+        "tmacdou4/2019-nCov",
+        "joaotinti75/Coronavirus",
+        "BlankerL/DXY-COVID-19-Data",
+        "virtadpt/exocortex-agents",
+        "pcm-dpc/COVID-19",
+        "pomber/covid19",
+        "globalcitizen/2019-wuhan-coronavirus-data",
+        "arnoudbuzing/wolfram-coronavirus",
+        "opencovid19-fr/data",
+        "covid19india/covid19india-react",
+        "kalisio/covid-19",
+        "OssamaRafique/Corona-Statistics-And-Tracker-Dashboard-Angular-9",
+        "rfearing/temp-covid-resources",
+        "coviddata/coviddata",
+        "datasets/covid-19",
+        "PhantasWeng/coronavirus-daily-dashboard",
+        "nytimes/covid-19-data",
+        "cipriancraciun/covid19-datasets",
+        "colaboradados/colaboradados.github.io",
+        "jmcastagnetto/covid-19-peru-data",
+        "UCSD-AI4H/COVID-CT",
+        "openZH/covid_19",
+        "ieee8023/covid-chestxray-dataset",
+        "FoldingAtHome/coronavirus",
+        "cjvanlissa/COVID19_metadata",
+        "AlaeddineMessadi/COVID-19-REPORT-DASHBOARD",
+        "hmpandey/CoronaQs",
+        "github/covid19-dashboard",
+        "sebaxtian/colombia_covid_19_pipe",
+        "UniversalDataTool/coronavirus-mask-image-dataset",
+        "cityxdev/covid19ByCountry"
+      ]
+    },
+    {
+      "category": "Models",
+      "repositories": [
+        "HopkinsIDD/ncov_incubation",
+        "coronafighter/coronaSEIR",
+        "pennsignals/chime",
+        "daveselinger/covid-19-hackathon",
+        "midas-network/COVID-19",
+        "neherlab/covid19_scenarios",
+        "Mythobeast/epidemicmodels",
+        "institutefordiseasemodeling/covasim",
+        "funcional-health-analytics/covid19-analytics",
+        "WARMTeam/CoVid19",
+        "ImperialCollegeLondon/covid19model",
+        "microprediction/pandemic",
+        "p-j-r/covid-19"
+      ]
+    },
+    {
+      "category": "Learning",
+      "repositories": [
+        "mattroconnor/deep_learning_coronavirus_cure",
+        "jbesomi/Korono"
+      ]
+    },
+    {
+      "category": "Maps",
+      "repositories": [
+        "ncovis/choropleth",
+        "jakobzhao/virus",
+        "antonlukin/2019-nCoV",
+        "stevenliuyi/covid19",
+        "par6n/ncov-19",
+        "konradkalemba/korona.ws",
+        "ankitchouhan1020/corona",
+        "opencovid19-fr/dashboard",
+        "bustbyte/coronastatus",
+        "reach4help/reach4help",
+        "Polunom/covid-inc"
+      ]
+    },
+    {
+      "category": "Applications and Bots",
+      "repositories": [
+        "RamiKrispin/coronavirus_dashboard",
+        "hysios/coronavirus",
+        "sorxrob/2019-ncov-frontend",
+        "onlyphantom/coronavirus",
+        "the-robot/covid19-updates",
+        "phildini/stayinghomeclub",
+        "arik-so/coronavirus",
+        "Bost/corona_cases",
+        "soroushchehresa/iran-coronavirus",
+        "MhdHejazi/CoronaTracker",
+        "JohnCoene/coronavirus",
+        "alfianlosari/CoronaVirusTrackerSwiftUI",
+        "MG-ng/Virus-Ticker-Widget",
+        "heremaps/here-covid-19-tracker",
+        "aleskandro/covid19-charts-spreading-rapidity",
+        "dsfsi/covid19za",
+        "julianschiavo/Covidcheck",
+        "yohix/corona",
+        "duarteocarmo/coronabar",
+        "cakebatterandsprinkles/whereiscovid",
+        "YogaSakti/CoronaNotifier",
+        "bluebillxp/android-covid19-reportviewer",
+        "AaronWard/covidify",
+        "LuisReinoso/covid-19-community-tracker",
+        "iamrohitsuthar/gocoronago",
+        "nthopinion/covid19",
+        "mayukh18/covidexplore",
+        "nutboltu/australia-covid19",
+        "Spiderpig86/sea-to-go",
+        "nploi/corona_tracker",
+        "helloworldkr/Bluetooth-ble-beamer-and-scanner-for-tracing-corona-virus-infected-individual",
+        "boogheta/coronavirus-countries",
+        "onl1ner/CovidKazakhstan",
+        "dabigjoe6/react-native-covid19",
+        "varundeva/CoronaTracker",
+        "destructo570/CovidTracker",
+        "bluesquare-io/covid-19-app",
+        "calpt/CoronaPandemicBot",
+        "njoyard/corona",
+        "LeafyCode/survive-together-web",
+        "Druhin13/corona",
+        "shaunsaker/covid-19-south-africa-app",
+        "hissain/CoronaTracker",
+        "WorldHealthOrganization/app",
+        "expelledboy/bitbar-covid"
+      ]
+    },
+    {
+      "category": "Packages and Scripts",
+      "repositories": [
+        "datasets/covid-19",
+        "koushikkothagal/coronavirus-tracker",
+        "eebrown/data2019nCoV",
+        "pdtyreus/coronavirus-ds",
+        "eebrown/data2019nCoV",
+        "benhur07b/covid19-load-qgis",
+        "ghaake/stay-home-snackbar"
+      ]
+    },
+    {
+      "category": "CLI",
+      "repositories": [
+        "ahmadawais/corona-cli",
+        "tracker-cli/covid19-tracker-cli",
+        "sagarkarira/coronavirus-tracker-cli",
+        "garrylachman/covid19-cli",
+        "MouadBH/coronapy-cli",
+        "soroushchehresa/cli-corona",
+        "asprazz/covid19-cli",
+        "aayush-jaiswal/covid-in"
+      ]
+    },
+    {
+      "category": "Hardware",
+      "repositories": [
+        "jcl5m1/ventilator",
+        "ProtofyTeam/OxyGEN"
+      ]
+    },
+    {
+      "category": "Data Stream",
+      "repositories": [
+        "SolaceLabs/jhu-covid19-stream-processors"
+      ]
+    }
+  ]
+}
