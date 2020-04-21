@@ -162,49 +162,19 @@ COVID-19 (2019 novel Coronavirus) is a current epidemic as of today. Developers 
 
 | Link      | Description  |
 |:----------|:-------------|
-| [BotCorona](https://twitter.com/BotCorona) | A bot that keeps track of the #CoronaVirus Data gets tweeted every 2 hours. |
-| [coronavcharts](https://twitter.com/coronavcharts) | Your number #1 source on charts and “news” for #Coronavirus. |
-| [TrackerCorona](https://twitter.com/TrackerCorona) | I am a bot that collects U.S nCoV data from John Hopkins University and the U.S CDC and makes graphs! I am still in early development so there may be some bugs. |
-| [COVID19](https://twitter.com/V2019N) | Everything we do before a pandemic will seem alarmist. Everything we do after will seem inadequate -M. Leavitt, DHHS. |
-| [Coronavirus CoVid-19 Updates](https://twitter.com/subgap) | This account will tweet the current confirmed CoronaVirus #Covid-19 #NCOV infections. |
-| [Coronavirus (COVID-19) Alerts](https://twitter.com/coronaviruscare) | #COVID19 (#Coronavirus) Alerts, News &amp; Info from reputed sources. Updates &amp; Verified Facts on #2019nCoV Research, Strategies &amp; Cures. Only truth, no rumours. |
-| [COVID19 Updates in Asia](https://twitter.com/SEACoronavirus) | Updates on #coronavirus #COVID19 #coronaoutbreak #SARSCoV2 #ไวรัสโคโรน่า #VirusCorona #코로나바이러스 #コロナウイルス in the Larger Western Pacific Region. |
-| [The COVID Tracking Project](https://twitter.com/COVID19Tracking) | Comprehensive US state-level coronavirus testing data |
-| [Corona Tracker Bot](https://twitter.com/Covid19Stat_bot) | Covid19 Global Statistics Tweets Each Hour and Replies Country and State Data When you mention. |
-| [GoCoronaBot India](https://twitter.com/GoCoronaBot) | Bot that tweets the latest coronavirus stats in India. |
+| []() |  |
 
 #### Telegram
 
 | Link      | Description  |
 |:----------|:-------------|
-| [SG Fight Coronavirus](https://t.me/sgFight) | Let&#39;s Fight Coronavirus together in Singapore. |
-| [Coronavirus Updates](https://t.me/coronavirusupdates) | Info-sharing on COVID-19. |
-| [Coronavirus Info](https://t.me/coronavirusinfo) | Today&#39;s top stories regarding the COVID-19 Pandemic. |
-| [Wuhan 2019 Novel Coronavirus](https://t.me/TheWuhanVirus) | A collation of Singapore News Articles on 2019-nCoV Wuhan Virus COVID-2019. |
-| [SG Wuhan Coronavirus Info Group](https://t.me/SGWuhanCoronaVirusNews) | Providing news and updates on the Wuhan Coronavirus. |
-| [Wuhan Quarantine #nCoV #武汉封城](https://t.me/wuhanquarantinefrom20200123) | 点击标签查看相关消息：新闻 生活实景 求助信息 捐赠 应灾技巧 专家解答 辟谣 重要通知 疫情动态 |
-| [CoronaTracker-Public](https://t.me/coronatracker_public) | CoronaTracker-Public super group. |
-| [Covid19 live update](https://t.me/covid19liveupdate) | Coronavirus outbreak COVID-19 live situation update. |
-| [COVID-19 Norway](https://t.me/covid19norge) | Live Coronavirus-statistics in Norway. |
-| [Coronavirus Germany Chat](https://t.me/CoronavirusGermanyChat) | Super-group for News, Informationen, Updates &amp; Austausch zum Thema Coronavirus in Germany. |
-| [@COVID19NowBot](https://t.me/COVID19NowBot) | A bot that can fetch information and numbers of COVID-19 cases around the globe. Available in 🇺🇸, 🇧🇷, 🇫🇷. |
-| [Covid19India](https://t.me/CoronaUpdateLatest) | Telegram Channel for Latest Corona Virus Updates in India. |
-| [@coronapandemicbot](https://t.me/coronapandemicbot) | A bot that gives you up-to-date statistics on the worldwide spread of the COVID-19 disease. |
-| [@CovidRadar](https://t.me/CovidRradarBot) | Coronavirus Cases: statistics, charts and trends |
+| [MVDevelopers](https://t.me/mvdevelopers) | Maldivian Developers |
 
 #### WhatsApp
 
 | Link      | Description  |
 |:----------|:-------------|
-| [latest information about the COVID-19](https://go.gov.sg/whatsapp) | Gov.sg WhatsApp Subscription |
-| [WHO Health Alert](http://bit.ly/who-covid19-whatsapp) | WHO WhatsApp Subscription for COVID-19 related information |
-| [COVID19.GO.ID](https://bit.ly/INDONESIACOVID19WABOT) | Indonesian WhatsApp Bot for COVID-19 information |
-
-#### Forum
-
-| Link      | Description  |
-|:----------|:-------------|
-| [Entraide Coronavirus](https://www.entraidecoronavirus.fr) | Forum pour favoriser l&#39;entraide et la solidarité pendant la pandémie de COVID-19 |
+| []() |  |
 
 
 
