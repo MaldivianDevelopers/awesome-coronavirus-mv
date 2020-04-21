@@ -1,6 +1,6 @@
 <div align="center">
 	<br>
-	<img src="https://raw.githubusercontent.com/MaldivianDevelopers/awesome-coronavirus/master/awesome-coronavirus-mv.png" width="450px">
+	<img src="https://raw.githubusercontent.com/MaldivianDevelopers/awesome-coronavirus-mv/master/awesome-coronavirus-mv.png" width="450px">
 	<br>
 	<br>
 	<br>
@@ -13,7 +13,7 @@
 	<br>
 </div>
 
-# Awesome Coronavirus Maldives [![Awesome](https://awesome.re/badge.svg)](https://awesome.re) <img src="https://img.shields.io/github/license/MaldivianDevelopers/awesome-coronavirus-mv"> <img src="https://img.shields.io/travis/MaldivianDevelopers/awesome-coronavirus-mv" alt="build status"> [<img src="https://img.shields.io/badge/sponsors-become%20a%20sponsor-blueviolet">](#donation-and-sponsoring)
+# Awesome Coronavirus Maldives
 
 > Useful projects and resources for COVID-19 (2019 novel Coronavirus)
 
