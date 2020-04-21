@@ -15,6 +15,11 @@
       "title": "ECDC",
       "url": "https://www.ecdc.europa.eu/en/novel-coronavirus-china",
       "description": " European Centre for Disease Prevention and Control"
+    },
+    {
+      "title": "Covid19 Updates - HPA/Ministry of Health",
+      "url": "https://covid19.health.gov.mv/en/",
+      "description": "Ministry of Health/Health Protection Agency - Maldives"
     }
   ]
 }
