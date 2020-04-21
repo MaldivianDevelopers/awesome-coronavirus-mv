@@ -117,7 +117,10 @@ You can become a sponsor of `awesome-coronavirus-mv` and be placed at the top of
 #### `https://t.me/mvdevelopers`
 
 ## Contribution
-Contributions welcome! Read the [contribution guidelines](https://github.com/MaldivianDevelopers/awesome-coronavirus-mv/blob/master/contributing.md) first.
+Contributions welcome! 
+Read the [contribution guidelines](https://github.com/MaldivianDevelopers/awesome-coronavirus-mv/blob/master/contributing.md) first to contribute links.
+
+To get started withthe development, refer [dev guidelines](https://github.com/MaldivianDevelopers/awesome-coronavirus-mv/blob/master/dev.md).
 
 ## Inspiration
 This repo was cloned/folked from https://github.com/soroushchehresa/awesome-coronavirus

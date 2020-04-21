@@ -80,58 +80,62 @@ COVID-19 (2019 novel Coronavirus) is a current epidemic as of today. Developers 
 
 | :star2:     | Repository   | Description  |
 |:-----------:|:-------------|:-------------|
- | 0 | [@cityxdev](https://github.com/cityxdev)/[**covid19GoogleMobilityJSON**](https://github.com/cityxdev/covid19GoogleMobilityJSON) | A way to transform Google&#39;s mobility data during the COVID-19 pandemic to a JSON file per country |
+ | 0 | [@MaldivianDevelopers](https://github.com/MaldivianDevelopers)/[**awesome-coronavirus-mv**](https://github.com/MaldivianDevelopers/awesome-coronavirus-mv) | Useful projects and resources for COVID-19 (2019 novel Coronavirus) out of Maldives |
 
 #### Statistics and Datasets
 
 | :star2:     | Repository   | Description  |
 |:-----------:|:-------------|:-------------|
- | 1 | [@cityxdev](https://github.com/cityxdev)/[**covid19ByCountry**](https://github.com/cityxdev/covid19ByCountry) | A small dashboard providing country comparison on COVID-19 data |
+ | 0 | [@MaldivianDevelopers](https://github.com/MaldivianDevelopers)/[**awesome-coronavirus-mv**](https://github.com/MaldivianDevelopers/awesome-coronavirus-mv) | Useful projects and resources for COVID-19 (2019 novel Coronavirus) out of Maldives |
 
 #### Models
 
 | :star2:     | Repository   | Description  |
 |:-----------:|:-------------|:-------------|
- | 3 | [@p-j-r](https://github.com/p-j-r)/[**covid-19**](https://github.com/p-j-r/covid-19) | Stochastic SIR models, adding age-structures and social contact data for the spread of covid-19. Also proposing a lattice model for identifying and isolating hotspots. |
+ | 0 | [@MaldivianDevelopers](https://github.com/MaldivianDevelopers)/[**awesome-coronavirus-mv**](https://github.com/MaldivianDevelopers/awesome-coronavirus-mv) | Useful projects and resources for COVID-19 (2019 novel Coronavirus) out of Maldives |
 
 #### Learning
 
 | :star2:     | Repository   | Description  |
 |:-----------:|:-------------|:-------------|
- | 3 | [@jbesomi](https://github.com/jbesomi)/[**Korono**](https://github.com/jbesomi/Korono) | 👑Korono: question answering platform for COVID-19 papers |
+ | 0 | [@MaldivianDevelopers](https://github.com/MaldivianDevelopers)/[**awesome-coronavirus-mv**](https://github.com/MaldivianDevelopers/awesome-coronavirus-mv) | Useful projects and resources for COVID-19 (2019 novel Coronavirus) out of Maldives |
 
 #### Maps
 
 | :star2:     | Repository   | Description  |
 |:-----------:|:-------------|:-------------|
+ | 1 | [@MaldivianDevelopers](https://github.com/MaldivianDevelopers)/[**mv-covid19-graph**](https://github.com/MaldivianDevelopers/mv-covid19-graph) | Crowd sourced cluster data for COVID-19 outbreak in Maldives |
 
 #### Applications and Bots
 
 | :star2:     | Repository   | Description  |
 |:-----------:|:-------------|:-------------|
- | 1 | [@expelledboy](https://github.com/expelledboy)/[**bitbar-covid**](https://github.com/expelledboy/bitbar-covid) | Get updates on covid 19 for your country in your status bar. BitBar Plugin. |
+ | 0 | [@MaldivianDevelopers](https://github.com/MaldivianDevelopers)/[**covid19-backend**](https://github.com/MaldivianDevelopers/covid19-backend) |  |
+ | 0 | [@MaldivianDevelopers](https://github.com/MaldivianDevelopers)/[**covid19supportbots**](https://github.com/MaldivianDevelopers/covid19supportbots) |  |
 
 #### Packages and Scripts
 
 | :star2:     | Repository   | Description  |
 |:-----------:|:-------------|:-------------|
- | 1 | [@ghaake](https://github.com/ghaake)/[**stay-home-snackbar**](https://github.com/ghaake/stay-home-snackbar) | Simple #stayhome snackbar for your website (ENG and GER). #stayhome #wirbleibenzuhause |
+ | 0 | [@MaldivianDevelopers](https://github.com/MaldivianDevelopers)/[**awesome-coronavirus-mv**](https://github.com/MaldivianDevelopers/awesome-coronavirus-mv) | Useful projects and resources for COVID-19 (2019 novel Coronavirus) out of Maldives |
 
 #### CLI
 
 | :star2:     | Repository   | Description  |
 |:-----------:|:-------------|:-------------|
+ | 0 | [@MaldivianDevelopers](https://github.com/MaldivianDevelopers)/[**awesome-coronavirus-mv**](https://github.com/MaldivianDevelopers/awesome-coronavirus-mv) | Useful projects and resources for COVID-19 (2019 novel Coronavirus) out of Maldives |
 
 #### Hardware
 
 | :star2:     | Repository   | Description  |
 |:-----------:|:-------------|:-------------|
- | 152 | [@ProtofyTeam](https://github.com/ProtofyTeam)/[**OxyGEN**](https://github.com/ProtofyTeam/OxyGEN) | OxyGEN |
+ | 0 | [@MaldivianDevelopers](https://github.com/MaldivianDevelopers)/[**awesome-coronavirus-mv**](https://github.com/MaldivianDevelopers/awesome-coronavirus-mv) | Useful projects and resources for COVID-19 (2019 novel Coronavirus) out of Maldives |
 
 #### Data Stream
 
 | :star2:     | Repository   | Description  |
 |:-----------:|:-------------|:-------------|
+ | 0 | [@MaldivianDevelopers](https://github.com/MaldivianDevelopers)/[**awesome-coronavirus-mv**](https://github.com/MaldivianDevelopers/awesome-coronavirus-mv) | Useful projects and resources for COVID-19 (2019 novel Coronavirus) out of Maldives |
 
 
 
@@ -251,7 +255,10 @@ You can become a sponsor of `awesome-coronavirus-mv` and be placed at the top of
 #### `https://t.me/mvdevelopers`
 
 ## Contribution
-Contributions welcome! Read the [contribution guidelines](https://github.com/MaldivianDevelopers/awesome-coronavirus-mv/blob/master/contributing.md) first.
+Contributions welcome! 
+Read the [contribution guidelines](https://github.com/MaldivianDevelopers/awesome-coronavirus-mv/blob/master/contributing.md) first to contribute links.
+
+To get started withthe development, refer [dev guidelines](https://github.com/MaldivianDevelopers/awesome-coronavirus-mv/blob/master/dev.md).
 
 ## Inspiration
 This repo was cloned/folked from https://github.com/soroushchehresa/awesome-coronavirus
