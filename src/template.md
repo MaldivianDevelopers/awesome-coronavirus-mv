@@ -1,25 +1,25 @@
 <div align="center">
 	<br>
-	<img src="https://raw.githubusercontent.com/soroushchehresa/awesome-coronavirus/master/awesome-coronavirus.png" width="450px">
+	<img src="https://raw.githubusercontent.com/MaldivianDevelopers/awesome-coronavirus-mv/master/awesome-coronavirus-mv.png" width="450px">
 	<br>
 	<br>
 	<br>
 	<hr>
 	<p>
-	<h2>Sponsors</h2>
-	<a href="https://starhub.soroushapps.com"><img src="https://i.imgur.com/H5SELmm.png" width="270px"></a>
+	<h2>Maintained By</h2>
+	<a href="https://developers.mv/"><img src="https://avatars2.githubusercontent.com/u/35810468?s=200&v=4" width="270px"></a>
 	</p>
 	<hr>
 	<br>
 </div>
 
-# Awesome Coronavirus [![Awesome](https://awesome.re/badge.svg)](https://awesome.re) <img src="https://img.shields.io/github/license/soroushchehresa/awesome-coronavirus"> <img src="https://img.shields.io/travis/soroushchehresa/awesome-coronavirus" alt="build status"> [<img src="https://img.shields.io/badge/sponsors-become%20a%20sponsor-blueviolet">](#donation-and-sponsoring)
+# Awesome Coronavirus Maldives
 
 > Useful projects and resources for COVID-19 (2019 novel Coronavirus)
 
-COVID-19 (2019 novel Coronavirus) is a current epidemic as of today. Developers around the world are building applications for the public to get up-to-date and accurate information as quickly as possible. <br>
+COVID-19 (2019 novel Coronavirus) is a current epidemic as of today. Developers around the world and in Maldives are building applications for the public to get up-to-date and accurate information as quickly as possible. <br>
 
-**If you are interested to add your project to this list, please read the [contribution guidelines](https://github.com/soroushchehresa/awesome-coronavirus/blob/master/contributing.md) first!**
+**If you are interested to add your project to this list, please read the [contribution guidelines](https://github.com/MaldivianDevelopers/awesome-coronavirus/blob/master/contributing.md) first!**
 
 
 ## <%= contents.title %>
@@ -110,23 +110,19 @@ COVID-19 (2019 novel Coronavirus) is a current epidemic as of today. Developers 
 
 ## Donation and Sponsoring
 
-Donate me with buying me some vitamins to boost my immune system during the coronavirus outbreak, I would maintain this repository if I was alive :) 
-
-#### Bitcoin
-<img src="https://i.imgur.com/9IgberJ.png" width="120" >
-
-`1CddWa57gyqTQEgf5oiQ4DbpLufAiEyMTm`
-
-#### Patreon
-<a href="https://www.patreon.com/soroushchehresa">
-	<img src="https://c5.patreon.com/external/logo/become_a_patron_button@2x.png" width="160">
-</a>
-
+Donate us with buying us some vitamins to boost our immune system during the coronavirus outbreak, We would maintain this repository as long as we are alive :) 
 <hr>
 
-You can become a sponsor of `awesome-coronavirus` and be placed at the top of this repository in the [sponsor's section](#sponsors). If you are interested to become a sponsor please contact me with the following Email address:
-#### `s1996ch@gmail.com`
+You can become a sponsor of `awesome-coronavirus-mv` and be placed at the top of this repository in the [sponsor's section](#sponsors). If you are interested to become a sponsor please contact us via telegram:
+#### `https://t.me/mvdevelopers`
 
 ## Contribution
-Contributions welcome! Read the [contribution guidelines](https://github.com/soroushchehresa/awesome-coronavirus/blob/master/contributing.md) first.
+Contributions welcome! 
+Read the [contribution guidelines](https://github.com/MaldivianDevelopers/awesome-coronavirus-mv/blob/master/contributing.md) first to contribute links.
+
+To get started withthe development, refer [dev guidelines](https://github.com/MaldivianDevelopers/awesome-coronavirus-mv/blob/master/dev.md).
+
+## Inspiration
+This repo was cloned/folked from https://github.com/soroushchehresa/awesome-coronavirus
+All additions will be updated in the main repo but we felt like we also needed one of our own.
 
