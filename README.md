@@ -146,6 +146,9 @@ COVID-19 (2019 novel Coronavirus) is a current epidemic as of today. Developers 
 | Link | Description  |
 |:-----|:-------------|
 | [COVID19 MV LIVE](https://covid19mv.live) | Covid19 MV, Analytics, Information and safety |
+| [CORONAMV LIVE](https://coronamv.live) | Analytics, Information and safety |
+| [CORONAMV Resources](https://coronamv.live/resources) | Curated list of services offered by maldivian companies to help with the COVID-19 crisis. Home Delivery, Free Services and more |
+| [Baazaaru MV](https://baazaaru.mv/) | 200+ Delivery Services in Male&#39; city |
 
 
 
