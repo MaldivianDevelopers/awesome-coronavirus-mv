@@ -34,8 +34,7 @@
     {
       "category": "Applications and Bots",
       "repositories": [
-        "MaldivianDevelopers/covid19supportbots",
-        "MaldivianDevelopers/covid19-backend"
+        "MaldivianDevelopers/covid19-cases-tracking"
       ]
     },
     {
