@@ -110,8 +110,8 @@ COVID-19 (2019 novel Coronavirus) is a current epidemic as of today. Developers 
 
 | :star2:     | Repository   | Description  |
 |:-----------:|:-------------|:-------------|
- | 0 | [@MaldivianDevelopers](https://github.com/MaldivianDevelopers)/[**covid19-backend**](https://github.com/MaldivianDevelopers/covid19-backend) |  |
- | 0 | [@MaldivianDevelopers](https://github.com/MaldivianDevelopers)/[**covid19supportbots**](https://github.com/MaldivianDevelopers/covid19supportbots) |  |
+ | 0 | [@MaldivianDevelopers](https://github.com/MaldivianDevelopers)/[**covid19-cases-tracking**](https://github.com/MaldivianDevelopers/covid19-cases-tracking) | Laravel application to keep track of reported cases |
+ 
 
 #### Packages and Scripts
 
