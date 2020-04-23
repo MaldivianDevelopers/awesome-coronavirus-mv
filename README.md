@@ -86,6 +86,7 @@ COVID-19 (2019 novel Coronavirus) is a current epidemic as of today. Developers 
 
 | :star2:     | Repository   | Description  |
 |:-----------:|:-------------|:-------------|
+ | 2 | [@MaldivianDevelopers](https://github.com/MaldivianDevelopers)/[**mv-covid19-graph**](https://github.com/MaldivianDevelopers/mv-covid19-graph) | Crowd sourced cluster data for COVID-19 outbreak in Maldives |
  | 0 | [@MaldivianDevelopers](https://github.com/MaldivianDevelopers)/[**awesome-coronavirus-mv**](https://github.com/MaldivianDevelopers/awesome-coronavirus-mv) | Useful projects and resources for COVID-19 (2019 novel Coronavirus) out of Maldives |
 
 #### Models
